@@ -1,0 +1,21 @@
+.cart, .card {
+	img {
+		margin: 0 auto;
+	}
+
+	p.card-text {
+		white-space: nowrap;
+	    overflow: hidden;
+	    text-overflow: ellipsis;
+	}
+}
+
+.cart {
+	img {
+		height: 100px;
+	}
+}
+
+.container.page {
+	margin-top: 0;
+}

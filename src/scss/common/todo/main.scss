@@ -1,0 +1,16 @@
+.todo.container {
+	@include media-breakpoint-down(sm) { 
+		padding: 0;
+		margin: 0;
+	}
+	.card-header {
+		@include media-breakpoint-down(sm) {
+			padding: 0;
+		}
+		.btn-group button {
+			@include media-breakpoint-down(sm) {
+				font-size: 12px;
+			}
+		}
+	}
+}

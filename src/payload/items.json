@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1231221451,
+		"title": "YAMAHA MT-125",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "£3,100",
+		"age": "2015",
+		"image": "https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/sVYAAOSwr41XILEF/$_86.JPG",
+		"location": "Glasgow",
+		"active": false
+	},
+	{
+		"id": 1231221453,
+		"title": "BMW S1000R",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "$15,655",
+		"age": "2015",
+		"image": "http://attachment.09926.com/Thumbnails/20150706/2015-BMW-S1000R-Sportbike-Motorcycles-For-Sale-14453.jpg",
+		"location": "Colorado Springs",
+		"active": false
+	},
+	{
+		"id": 1231221452,
+		"title": "DUCATI MONSTER S4",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "£3,300",
+		"age": "2001",
+		"image": "http://images.mcn.bauercdn.com/classifieds/private/7669331/1385994667/740x555/0.jpg?mode=pad",
+		"location": "Hampshire",
+		"active": false
+	},
+	{
+		"id": 1231221454,
+		"title": "HONDA SH125",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "£2,250",
+		"age": "2014",
+		"image": "http://images6.postadsuk.com/2015/08/04/postadsuk.com-1-honda-sh-125-14-plate-abs-auto-stop-start-london.JPG",
+		"location": "London",
+		"active": false
+	}
+]

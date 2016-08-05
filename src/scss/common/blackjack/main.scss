@@ -1,0 +1,29 @@
+.blackjack {
+	background-color: #003311;
+	color: #fff;
+
+	img.logo {
+		margin: 0 auto;
+		float: none;
+		padding: 40px;
+	}
+
+	.table {
+		padding: 40px;
+		text-align: center;
+	}
+
+	.player, .joker {
+		margin: 0 auto;
+		float: none;
+
+		img {
+			margin: 0 auto;
+			float: none;
+		}
+	}
+
+	.card {
+		background-color: transparent;
+	}
+}
